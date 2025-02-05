@@ -1,3 +1,2 @@
 #!/bin/bash
-home = echo $HOME
-cd home
+cd ~
